@@ -63,6 +63,8 @@ Graphs for part 2 y0(0)= 0.11
 3. Is the system of ODE sensitive to initial condition? Explain.
 
 From the observations of graph plotted, the pattern of curve remains unchanged when different initial conditions are given. Therefore, the system of ODE can be said that it is insensitive to initial condition.
+
+
 -----------------------------------
 
 <sup>last modified: 18-Apr-2016</sup>
