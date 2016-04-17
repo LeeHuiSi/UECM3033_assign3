@@ -45,18 +45,18 @@ In order to solve the system of ODEs, the module ¡°scipy.integrate.odeint¡±is us
 2. Put your graphs here and explain.
 
 
-![ Graph of y(t) vs t, y0(0)=0.1.png] (Graph of y(t) vs t, y0(0)=0.1. png)
+![ Graph of y(t) vs t, y0(0)=0.1.png](Graph of y(t) vs t, y0(0)=0.1.png)
 
-![ Graph of y1 vs y0, y0(0)=0.1. png] (Graph of y1 vs y0, y0(0)=0.1. png)
+![ Graph of y1 vs y0, y0(0)=0.1.png](Graph of y1 vs y0, y0(0)=0.1.png)
 
 
 From the graphs above, the curve y0(t) is increasing but y1(t) is decreasing as the time increasing. Two of the curve intersects at a point around t=4.7. Hence, we can say that in a closed biological system, while the number of prey is increasing, the number of predator is decreasing along the time from 0 to 5 years. Lastly, around the 4.7 year, the number of prey is equal to number of predator.
 
 Graphs for part 2 y0(0)= 0.11
 
-![ Graph of y(t) vs t, y0(0)=0.11. png] (Graph of y(t) vs t, y0(0)=0.11. png)
+![ Graph of y(t) vs t, y0(0)=0.11.png](Graph of y(t) vs t, y0(0)=0.11.png)
 
-![ Graph of y1 vs y0, y0(0)=0.11. png] (Graph of y1 vs y0, y0(0)=0.11. png)
+![ Graph of y1 vs y0, y0(0)=0.11.png](Graph of y1 vs y0, y0(0)=0.11.png)
 
 
 
