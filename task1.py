@@ -7,7 +7,12 @@ import sympy as sy
 def gausslegendre(f, a, b, n=20):
     ans = 0
     # Edit here to implement your code
-
+    # to obtain the sample points, x and weights, w for Gauss-Legendre quadrature
+    x,w = np.polynomial.legendre.leggauss(n)
+    # change of intervals
+    newpoint_x = (b-a)*x/2 + ((b+a)/2) 
+    # approximate the definte integral using summation of w and x
+    ans = ((b-a)/2)*sum(w*f(newpoint_x))
     return ans
 
 if __name__ == "__main__":
